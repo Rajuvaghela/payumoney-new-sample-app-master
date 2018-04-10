@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/io.fabric.sdk.android-fabric-1.3.14_663f3fe36e4f3766802e2a37401297f01185980a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_376e26e2222d6b2af13481905c9ab6d558066f7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.14/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ff77725723167163d69439e3fd077bd0899babf">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-crashlytics-core-2.3.14_acc2d111c6cc104c13219e109b8184219668b5e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.payumoney.core/payumoney-sdk/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1289f407b31f1087d428fbabc2b8a69c2fe452fb">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.payumoney.core-payumoney-sdk-7.0.0_def4e2ec3b186b52308496b9a2c37d0b419b12be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.10/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed6b455e3dd7bbf1ff31f8df0b41e2f0d87f3ace">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-answers-1.3.10_e818f65f6006bde2e220f649177915776f5a8be8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.payumoney.sdkui/plug-n-play/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="179b5ab02f5f249358175c7c62a1a3e4a4dff591">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.payumoney.sdkui-plug-n-play-1.0.0_e09a3c42bcc5fd7ec676baed1ee95a0c5b75afb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-beta-1.2.2_62f4beed958468d1a81e7416ea785777a0c1c4d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_a11956546f3384eb0952a83845c93d9c86488846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_fa666996d28f9234fa6dcd3b6e9ac472ae72336a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.1_3ffa05da1df3f82e3e0084caa43b077bcaf7d5bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_dee8d2c4929a0d5f8954e714d0b10960dfab55a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02cc9f2e5899415add52bc716602b6b38e7eeb99">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-crashlytics-2.6.5_42fd6bc8518e715ecc906be1ba0c1193f75ce787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.payumoney.graphics/asset-download-sdk/0.1.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97e8b48d7874dad1ded66324f8a879c1c3b17172">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.payumoney.graphics-asset-download-sdk-0.1.9_a4b79eb402acd6a005fdeae11107098000c0ec5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_33d71e42aa27cfd5b35f92cc020be98f92e891f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.payu.custombrowser/payu-custom-browser/6.1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="feb035e98d4fef27ff2a6f45bbaac40c07a6596a">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.payu.custombrowser-payu-custom-browser-6.1.3_ff5142049b9c82210c89fb4b0d21ff1b0cbfd279.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/gson-2.6.2_2e31d1e0a09bc4c96388f93cf2b44796b3597459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_e224ae943ac85b1fd0b0b58ffe0488c87cdefdb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.payu.magicretry/magicretry/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="591e7c1eb05bda2bcee22d151402fd8d61ffeca9">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.payu.magicretry-magicretry-1.0.5_db7d1577d8672605c426549248b315025c60ab21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/.gradle/caches/modules-2/files-2.1/com.jakewharton/disklrucache/2.0.2/93b399470e72c0bc8cb52379943b63c9aa586cd8/disklrucache-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93b399470e72c0bc8cb52379943b63c9aa586cd8">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/disklrucache-2.0.2_cfead555ab4040c2298ebbc0799c356a46172082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.github.aakira/expandable-layout/1.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3cef25b344d6893e5e2d9b1ae38d180955e9d3ef">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.github.aakira-expandable-layout-1.6.0_1a5763bc8b14b561f12e8cb8e928b91e6b073a08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_2dd2d9d6b1036775faae1087f6c2dc4520281800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_a2208879a5431aad217089b57ccf95b379694eab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/lujayn-15/Videos/raju_demo/payumoney-new-sample-app-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_379b0a9fcd9f7124517ab1b35b7759d0ff12ca6f.jar" />
+    </item>
+
+</items>
